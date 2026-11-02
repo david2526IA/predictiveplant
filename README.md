@@ -96,4 +96,4 @@ This project is for learning, prototyping and portfolio demonstration. It must n
 
 ## License
 
-MIT © 2026 David Falcon
+MIT © 2026 David
